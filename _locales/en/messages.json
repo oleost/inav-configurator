@@ -1714,5 +1714,14 @@
     },
     "servoRefreshRatelHelp": {
         "message" : "Servo has to support refresh rate. Change only if you know that servo supports it. Too high refresh rate might damage servos!"
+    },
+    "configurationGyroSyncTitle": {
+        "message" : "Synchronize looptime with gyroscope"
+    },
+    "configurationGyroLpfTitle": {
+        "message" : "Gyroscope LPF cutoff frequency"
+    },
+    "configurationGyroSyncDenominator": {
+        "message" : "Gyroscope denominator"
     }
 }
